@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DependencyResolver\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="IoC\" />
+    <Folder Include="Middleware\" />
+    <Folder Include="Utilities\Constant\" />
+    <Folder Include="Utilities\Log\" />
+    <Folder Include="Utilities\Mail\" />
+    <Folder Include="Utilities\Validation\" />
+    <Folder Include="Utilities\Security\" />
+    <Folder Include="Utilities\Performance\" />
+  </ItemGroup>
+
+</Project>

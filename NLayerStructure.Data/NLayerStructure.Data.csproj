@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+    <Folder Include="ORM\Abstract\" />
+    <Folder Include="ORM\Concrete\" />
+    <Folder Include="ORM\UnitOfWork\" />
+    <Folder Include="Repositories\Abstract\" />
+    <Folder Include="Repositories\Concrete\" />
+    <Folder Include="Seeds\" />
+  </ItemGroup>
+
+</Project>

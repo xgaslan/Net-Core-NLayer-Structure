@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dtos\Abstract\Base\" />
+    <Folder Include="Dtos\Concrete\Requests\" />
+    <Folder Include="Dtos\Concrete\Responses\" />
+    <Folder Include="Maps\" />
+    <Folder Include="Services\Abstract\Base\" />
+    <Folder Include="Services\Concrete\" />
+  </ItemGroup>
+
+</Project>
